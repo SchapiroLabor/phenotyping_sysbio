@@ -7,6 +7,7 @@
 4. Cell Neighbourhood Analysis
 
 ### Repo Structure
+```text
 sysbio2026/
 ├── .gitignore
 ├── Neighbourhood Analysis/
@@ -23,4 +24,4 @@ sysbio2026/
 │ └──
 └── segmentation/
 └──
-
+```
