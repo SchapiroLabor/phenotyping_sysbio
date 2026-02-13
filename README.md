@@ -1,4 +1,4 @@
-## Systems Biology Practical Course
+## Systems Biology Practical Course 2026
 
 ### Modules
 1. Preprocessing
