@@ -9,7 +9,6 @@
 ### Repo Structure
 ```text
 sysbio2026/
-├── .gitignore
 ├── Neighbourhood Analysis/
 │ └──
 ├── phenotyping/
